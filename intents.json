@@ -1,0 +1,172 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good evening",
+            "How are you?",
+            "What's up?",
+            "How's it going?"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! How can I help you?",
+            "Good day! What can I do for you?",
+            "Hey! How’s everything going?",
+            "Hello! What brings you here today?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "Goodbye",
+            "See you later",
+            "Take care",
+            "Catch you later",
+            "See you soon"
+        ],
+        "responses": [
+            "Goodbye! Have a great day!",
+            "Take care! See you later.",
+            "See you soon! Stay safe.",
+            "Goodbye, and come back anytime!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "You're the best",
+            "Thanks for your help"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Glad I could help!",
+            "Anytime!",
+            "Happy to assist!",
+            "No problem at all!"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What is your purpose?",
+            "Who are you?",
+            "Tell me about you",
+            "What can you do?",
+            "What do you help with?"
+        ],
+        "responses": [
+            "I am an entertainment chatbot here to assist you with movie, music, and show recommendations.",
+            "I help you find movies, music, TV shows, and provide fun trivia and jokes.",
+            "I’m here to keep you entertained and suggest the best in movies, music, and more!",
+            "I’m your go-to for entertainment recommendations and fun interactions!"
+        ]
+    },
+    {
+        "tag": "movie_recommendation",
+        "patterns": [
+            "Can you recommend a good movie?",
+            "What should I watch?",
+            "Give me a movie suggestion",
+            "Tell me a good movie to watch"
+        ],
+        "responses": [
+            "How about 'Inception'? It’s a mind-bending thriller. Or maybe 'The Shawshank Redemption' for a classic!",
+            "If you're in the mood for something fun, try 'Guardians of the Galaxy' or 'The Grand Budapest Hotel'.",
+            "I recommend 'The Matrix' for a sci-fi adventure, or 'The Pursuit of Happyness' for an inspiring drama."
+        ]
+    },
+    {
+        "tag": "music_recommendation",
+        "patterns": [
+            "What music should I listen to?",
+            "Can you recommend some songs?",
+            "Give me a music suggestion",
+            "What’s a good song for a road trip?"
+        ],
+        "responses": [
+            "For a road trip, try some upbeat pop songs like 'Uptown Funk' or 'Shut Up and Dance'.",
+            "How about some chill acoustic music? Check out 'Banana Pancakes' by Jack Johnson.",
+            "If you're in the mood for something relaxing, listen to 'Weightless' by Marconi Union."
+        ]
+    },
+    {
+        "tag": "tv_show_recommendation",
+        "patterns": [
+            "What TV shows do you recommend?",
+            "Tell me a good TV series to watch",
+            "Give me a suggestion for a TV show",
+            "What’s a good TV show?"
+        ],
+        "responses": [
+            "If you enjoy drama, 'Breaking Bad' is a must-watch! Or try 'Stranger Things' for some thrilling sci-fi.",
+            "How about 'Friends' for a classic sitcom, or 'Black Mirror' for some thought-provoking episodes?",
+            "For something light-hearted, 'The Office' is a great option. If you prefer mystery, 'Sherlock' is amazing."
+        ]
+    },
+    {
+        "tag": "joke",
+        "patterns": [
+            "Tell me a joke",
+            "Make me laugh",
+            "Can you tell a funny story?",
+            "Do you know any jokes?"
+        ],
+        "responses": [
+            "Why don’t skeletons fight each other? They don’t have the guts.",
+            "Why don’t scientists trust atoms? Because they make up everything!",
+            "I told my computer I needed a break, now it won’t stop sending me Kit-Kats!"
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Can you help me?",
+            "I need help",
+            "Help me please",
+            "Can you assist me?"
+        ],
+        "responses": [
+            "Of course! How can I assist you?",
+            "I’m here to help. What do you need assistance with?",
+            "I’m happy to help! What can I do for you?",
+            "Let me know what you need help with, and I’ll do my best!"
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How am I doing?",
+            "Can I give feedback?",
+            "I have feedback for you",
+            "Do you take feedback?"
+        ],
+        "responses": [
+            "I’d love to hear your feedback! Please let me know how I can improve.",
+            "I’m always open to feedback! Please share your thoughts.",
+            "Feedback is always welcome. What do you think?"
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "How can I contact you?",
+            "Is there a way to reach you?",
+            "Can I talk to a human?",
+            "Can I send you a message?"
+        ],
+        "responses": [
+            "You can chat with me anytime here! If you need to reach a human, I can direct you to the support team.",
+            "I’m always here to chat. For human support, please contact our help desk.",
+            "Feel free to reach out to me whenever you need assistance!"
+        ]
+    }
+]
